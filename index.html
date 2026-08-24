@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Installed APT Packages</title>
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; margin: 2rem; background: #f8f9fa; color: #333; }
+        h1 { font-size: 1.5rem; margin-bottom: 1rem; }
+        input { width: 100%; max-width: 400px; padding: 0.5rem; margin-bottom: 1rem; border: 1px solid #ccc; border-radius: 4px; }
+        table { width: 100%; border-collapse: collapse; background: white; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border-radius: 4px; overflow: hidden; }
+        th, td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid #eee; }
+        th { background: #007bff; color: white; }
+        tr:hover { background: #f1f3f5; }
+    </style>
+</head>
+<body>
+
+    <h1>Installed APT Packages</h1>
+    <input type="text" id="search" placeholder="Search packages..." onkeyup="filterTable()">
+
+    <table id="pkg-table">
+        <thead>
+            <tr>
+                <th>Package Name</th>
+                <th>Version</th>
+                <th>Architecture</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td colspan="3" style="text-align: center;">Loading...</td></tr>
+        </tbody>
+    </table>
+
+    <script>
+        let allPackages = [];
+
+        async function loadPackages() {
+            try {
+                const response = await fetch('apt_packages.json');
+                allPackages = await response.json();
+                renderTable(allPackages);
+            } catch (error) {
+                document.querySelector('tbody').innerHTML = `<tr><td colspan="3" style="color: red; text-align: center;">Failed to load apt_packages.json</td></tr>`;
+            }
+        }
+
+        function renderTable(packages) {
+            const tbody = document.querySelector('#pkg-table tbody');
+            if (packages.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="3" style="text-align: center;">No packages found</td></tr>`;
+                return;
+            }
+            tbody.innerHTML = packages.map(p => `
+                <tr>
+                    <td><strong>${escapeHtml(p.name)}</strong></td>
+                    <td>${escapeHtml(p.version)}</td>
+                    <td>${escapeHtml(p.arch)}</td>
+                /tr>
+            `.replace('/', '')).join('');
+        }
+
+        function filterTable() {
+            const query = document.getElementById('search').value.toLowerCase();
+            const filtered = allPackages.filter(p => 
+                p.name.toLowerCase().includes(query) || 
+                p.version.toLowerCase().includes(query) ||
+                p.arch.toLowerCase().includes(query)
+            );
+            renderTable(filtered);
+        }
+
+        function escapeHtml(str) {
+            return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        }
+
+        loadPackages();
+    </script>
+
+</body>
+</html>
