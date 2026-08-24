@@ -1,5 +1,8 @@
 FROM nginx:alpine
-# Copy your generated static files into the Nginx public directory
-COPY index.html /usr/html/index.html
+
+# Copy the static web page and the generated package data to Nginx public directory
+COPY index.html /usr/share/nginx/html/index.html
 COPY apt_packages.json /usr/share/nginx/html/apt_packages.json
+
+# Expose port 80 for HTTP traffic
 EXPOSE 80
