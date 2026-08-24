@@ -1,0 +1,1807 @@
+[
+  {
+    "name": "aapt",
+    "version": "16.0.0.4-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "aapt2",
+    "version": "16.0.0.4-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "abseil-cpp",
+    "version": "20260526.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "adwaita-icon-theme",
+    "version": "50.0",
+    "arch": "all"
+  },
+  {
+    "name": "adwaita-icon-theme-legacy",
+    "version": "46.2-1",
+    "arch": "all"
+  },
+  {
+    "name": "aichat",
+    "version": "0.30.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "aidl",
+    "version": "16.0.0.4-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "alsa-lib",
+    "version": "1.2.16.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "alsa-plugins",
+    "version": "1.2.12-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "android-tools",
+    "version": "36.0.1+really35.0.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "apksigner",
+    "version": "37.0.0",
+    "arch": "all"
+  },
+  {
+    "name": "apt",
+    "version": "2.8.1-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "argp",
+    "version": "1.5.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "at-spi2-core",
+    "version": "2.60.6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "atk",
+    "version": "2.48.0",
+    "arch": "all"
+  },
+  {
+    "name": "attr",
+    "version": "2.6.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "awscli",
+    "version": "2.36.29",
+    "arch": "aarch64"
+  },
+  {
+    "name": "bash",
+    "version": "5.3.15",
+    "arch": "aarch64"
+  },
+  {
+    "name": "brotli",
+    "version": "1.2.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "bzip2",
+    "version": "1.0.8-8",
+    "arch": "aarch64"
+  },
+  {
+    "name": "c-ares",
+    "version": "1.34.8",
+    "arch": "aarch64"
+  },
+  {
+    "name": "ca-certificates",
+    "version": "1:2026.07.16",
+    "arch": "all"
+  },
+  {
+    "name": "ca-certificates-java",
+    "version": "1:2026.07.16",
+    "arch": "all"
+  },
+  {
+    "name": "capstone",
+    "version": "5.0.9",
+    "arch": "aarch64"
+  },
+  {
+    "name": "chromium",
+    "version": "149.0.7827.155",
+    "arch": "aarch64"
+  },
+  {
+    "name": "clang",
+    "version": "21.1.8-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "command-not-found",
+    "version": "3.5.0-8",
+    "arch": "aarch64"
+  },
+  {
+    "name": "coreutils",
+    "version": "9.11-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "cups",
+    "version": "2.4.19",
+    "arch": "aarch64"
+  },
+  {
+    "name": "curl",
+    "version": "8.21.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "d8",
+    "version": "37.0.0",
+    "arch": "all"
+  },
+  {
+    "name": "dash",
+    "version": "0.5.12-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "dbus",
+    "version": "1.16.2-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "debianutils",
+    "version": "5.23.2-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "deno",
+    "version": "1:2.9.5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "desktop-file-utils",
+    "version": "0.28-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "dialog",
+    "version": "1.3-20260721-0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "diffutils",
+    "version": "3.12-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "dos2unix",
+    "version": "7.5.6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "double-conversion",
+    "version": "3.4.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "dpkg",
+    "version": "1.22.6-5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "dpkg-perl",
+    "version": "1.22.6-5",
+    "arch": "all"
+  },
+  {
+    "name": "dpkg-scanpackages",
+    "version": "1.22.6-5",
+    "arch": "all"
+  },
+  {
+    "name": "dtc",
+    "version": "1.8.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "ed",
+    "version": "1.22.6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "ffmpeg",
+    "version": "8.1.2-5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "fftw",
+    "version": "3.3.11",
+    "arch": "aarch64"
+  },
+  {
+    "name": "figlet",
+    "version": "2.2.5-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "file",
+    "version": "5.48-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "findutils",
+    "version": "4.10.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "firefox",
+    "version": "154.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "fmt",
+    "version": "1:11.2.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "fontconfig",
+    "version": "2.18.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "freetype",
+    "version": "2.14.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "fribidi",
+    "version": "1.0.16-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "game-music-emu",
+    "version": "0.6.5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "gawk",
+    "version": "5.3.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "gdbm",
+    "version": "1.26-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "gdk-pixbuf",
+    "version": "2.44.8",
+    "arch": "aarch64"
+  },
+  {
+    "name": "giflib",
+    "version": "5.2.2-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "git",
+    "version": "2.55.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "github-cli-go",
+    "version": "1.0.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "glib",
+    "version": "2.88.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "glslang",
+    "version": "16.5.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "golang",
+    "version": "3:1.26.5-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "googletest",
+    "version": "1.17.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "gpgv",
+    "version": "2.5.17",
+    "arch": "aarch64"
+  },
+  {
+    "name": "gradle",
+    "version": "1:9.7.1",
+    "arch": "all"
+  },
+  {
+    "name": "graphene",
+    "version": "1.10.8-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "grep",
+    "version": "3.12-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "gst-plugins-base",
+    "version": "1.28.6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "gstreamer",
+    "version": "1.28.6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "gtk-update-icon-cache",
+    "version": "3.24.52",
+    "arch": "aarch64"
+  },
+  {
+    "name": "gtk3",
+    "version": "3.24.52",
+    "arch": "aarch64"
+  },
+  {
+    "name": "gzip",
+    "version": "1.14-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "harfbuzz",
+    "version": "14.3.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "hicolor-icon-theme",
+    "version": "0.18",
+    "arch": "all"
+  },
+  {
+    "name": "imlib2",
+    "version": "1.12.6-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "inetutils",
+    "version": "2.7",
+    "arch": "aarch64"
+  },
+  {
+    "name": "jack2",
+    "version": "1.9.22-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "jq",
+    "version": "1.8.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "json-c",
+    "version": "0.19",
+    "arch": "aarch64"
+  },
+  {
+    "name": "krb5",
+    "version": "1.22.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "ldns",
+    "version": "1.8.4-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "less",
+    "version": "704",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libacl",
+    "version": "2.4.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libandroid-execinfo",
+    "version": "0.1-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libandroid-glob",
+    "version": "0.6-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libandroid-posix-semaphore",
+    "version": "0.1-4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libandroid-selinux",
+    "version": "14.0.0.11-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libandroid-shmem",
+    "version": "0.7",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libandroid-spawn",
+    "version": "0.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libandroid-stub",
+    "version": "29-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libandroid-support",
+    "version": "29-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libandroid-sysv-semaphore",
+    "version": "0.1-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libandroid-utimes",
+    "version": "0.4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libaom",
+    "version": "3.14.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libass",
+    "version": "0.17.5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libassuan",
+    "version": "3.0.2-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libbluray",
+    "version": "1.5.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libbs2b",
+    "version": "3.1.0-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libbz2",
+    "version": "1.0.8-8",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libc++",
+    "version": "29",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libcaca",
+    "version": "0.99.beta20-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libcairo",
+    "version": "1.18.4-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libcap-ng",
+    "version": "2:0.9.5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libcompiler-rt",
+    "version": "21.1.8-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libcrypt",
+    "version": "0.2-6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libcurl",
+    "version": "8.21.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libdav1d",
+    "version": "1.5.4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libdb",
+    "version": "18.1.40-6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libde265",
+    "version": "1.1.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libdrm",
+    "version": "2.4.134",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libdvdnav",
+    "version": "7.0.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libdvdread",
+    "version": "7.1.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libdw",
+    "version": "0.193-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libedit",
+    "version": "20260512-3.1-0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libelf",
+    "version": "0.193-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libepoxy",
+    "version": "1.5.10-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libevdev",
+    "version": "1.13.7",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libevent",
+    "version": "2.1.13",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libexpat",
+    "version": "2.8.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libffi",
+    "version": "3.5.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libflac",
+    "version": "1.5.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libgcrypt",
+    "version": "1.12.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libglvnd",
+    "version": "1.7.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libglvnd-dev",
+    "version": "1.7.0-1",
+    "arch": "all"
+  },
+  {
+    "name": "libgmp",
+    "version": "6.3.0-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libgnutls",
+    "version": "3.8.13-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libgpg-error",
+    "version": "1.61",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libgraphite",
+    "version": "1.3.15",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libheif",
+    "version": "1.23.1-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libice",
+    "version": "1.1.2-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libiconv",
+    "version": "1.18-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libicu",
+    "version": "78.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libid3tag",
+    "version": "0.16.4-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libidn2",
+    "version": "2.3.8-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libjpeg-turbo",
+    "version": "3.2.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libjxl",
+    "version": "0.12.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libllvm",
+    "version": "21.1.8-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libltdl",
+    "version": "2.6.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "liblz4",
+    "version": "1.10.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "liblzma",
+    "version": "5.8.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "liblzo",
+    "version": "2.10-5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libmagic",
+    "version": "5.48-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libmd",
+    "version": "1.1.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libminizip",
+    "version": "1.3.2-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libmp3lame",
+    "version": "3.100-7",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libmpfr",
+    "version": "4.2.1-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libmpg123",
+    "version": "1.33.5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libmysofa",
+    "version": "1.3.5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libnettle",
+    "version": "4.0+really3.10.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libnewt",
+    "version": "0.52.25-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libnfs",
+    "version": "7.0.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libnghttp2",
+    "version": "1.70.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libnghttp3",
+    "version": "1.18.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libngtcp2",
+    "version": "1.25.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libnpth",
+    "version": "1.6-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libnspr",
+    "version": "4.40",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libnss",
+    "version": "3.127",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libogg",
+    "version": "1.3.6-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libopenblas",
+    "version": "0.3.34",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libopencore-amr",
+    "version": "0.1.6-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libopenmpt",
+    "version": "0.8.9",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libopus",
+    "version": "1.6.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "liborc",
+    "version": "0.4.42",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libpixman",
+    "version": "0.46.4-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libplacebo",
+    "version": "7.360.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libpng",
+    "version": "1.6.58",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libpopt",
+    "version": "1.19-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libprotobuf",
+    "version": "2:35.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "librav1e",
+    "version": "0.8.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libresolv-wrapper",
+    "version": "1.1.7-6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "librsvg",
+    "version": "2.62.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libsamplerate",
+    "version": "0.2.2-4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libsasl",
+    "version": "2.1.28-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libslirp",
+    "version": "4.8.0-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libsm",
+    "version": "1.2.6-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libsmartcols",
+    "version": "2.42.1-4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libsndfile",
+    "version": "1.2.2-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libsodium",
+    "version": "1.0.22-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libsoxr",
+    "version": "0.1.3-8",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libspice-protocol",
+    "version": "0.14.5",
+    "arch": "all"
+  },
+  {
+    "name": "libspice-server",
+    "version": "0.16.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libsqlite",
+    "version": "3.53.4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libsrt",
+    "version": "1.5.6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libssh",
+    "version": "0.12.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libssh2",
+    "version": "1.11.1-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libtalloc",
+    "version": "2.4.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libtasn1",
+    "version": "4.21.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libtheora",
+    "version": "1.2.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libtiff",
+    "version": "4.7.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libtirpc",
+    "version": "1.3.7-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libudfread",
+    "version": "1.2.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libunbound",
+    "version": "1.26.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libunistring",
+    "version": "1.4.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libusb",
+    "version": "1.0.30",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libusbredir",
+    "version": "0.13.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libuuid",
+    "version": "2.42.1-4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libv4l",
+    "version": "1.24.1-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libvidstab",
+    "version": "1.1.1-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libvmaf",
+    "version": "3.2.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libvo-amrwbenc",
+    "version": "0.1.3-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libvorbis",
+    "version": "1.3.7-4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libvpx",
+    "version": "1:1.16.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libwayland",
+    "version": "1.25.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libwebp",
+    "version": "1.6.0-rc1-0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libwebrtc-audio-processing",
+    "version": "1.3-5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libx11",
+    "version": "1.8.13-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libx264",
+    "version": "1:0.164.3191-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libx265",
+    "version": "4.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxau",
+    "version": "1.0.12-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxcb",
+    "version": "1.17.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxcomposite",
+    "version": "0.4.7",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxcursor",
+    "version": "1.2.3-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxdamage",
+    "version": "1.1.7",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxdmcp",
+    "version": "1.1.5-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxext",
+    "version": "1.3.7",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxfixes",
+    "version": "6.0.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxft",
+    "version": "2.3.9-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxi",
+    "version": "1.8.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxinerama",
+    "version": "1.1.6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxkbcommon",
+    "version": "1.13.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxml2",
+    "version": "2.15.3-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxrandr",
+    "version": "1.5.5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxrender",
+    "version": "0.9.12-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxshmfence",
+    "version": "1.3.3-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxslt",
+    "version": "1.1.45-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxtst",
+    "version": "1.2.5-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxv",
+    "version": "1.0.13-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libxxf86vm",
+    "version": "1.1.7",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libyaml",
+    "version": "0.2.5-5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libzimg",
+    "version": "3.0.6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libzip",
+    "version": "1.11.4-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libzix",
+    "version": "0.6.2-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libzmq",
+    "version": "4.3.5-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "libzopfli",
+    "version": "1.0.3-5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "lilv",
+    "version": "0.28.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "littlecms",
+    "version": "2.19.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "lld",
+    "version": "21.1.8-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "llvm",
+    "version": "21.1.8-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "lsof",
+    "version": "4.99.7",
+    "arch": "aarch64"
+  },
+  {
+    "name": "lua51",
+    "version": "5.1.5-10",
+    "arch": "aarch64"
+  },
+  {
+    "name": "lua54",
+    "version": "5.4.8-10",
+    "arch": "aarch64"
+  },
+  {
+    "name": "lv2",
+    "version": "1.18.10-7",
+    "arch": "aarch64"
+  },
+  {
+    "name": "make",
+    "version": "4.4.1-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "mandoc",
+    "version": "1.14.6-6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "mesa",
+    "version": "26.0.6-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "mesa-vulkan-icd-swrast",
+    "version": "26.0.6-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "nano",
+    "version": "9.2-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "ncurses",
+    "version": "6.6.20260307+really6.5.20250830",
+    "arch": "aarch64"
+  },
+  {
+    "name": "ncurses-ui-libs",
+    "version": "6.6.20260307+really6.5.20250830",
+    "arch": "aarch64"
+  },
+  {
+    "name": "ndk-sysroot",
+    "version": "29-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "net-tools",
+    "version": "2.10.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "nodejs",
+    "version": "26.4.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "npm",
+    "version": "11.19.0",
+    "arch": "all"
+  },
+  {
+    "name": "oauth-tool",
+    "version": "1.0.0",
+    "arch": "all"
+  },
+  {
+    "name": "ocl-icd",
+    "version": "2.3.5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "ollama",
+    "version": "0.31.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "oniguruma",
+    "version": "6.9.10-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "opencv",
+    "version": "4.14.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "opengl",
+    "version": "4.5",
+    "arch": "all"
+  },
+  {
+    "name": "openjdk-17",
+    "version": "17.0.20",
+    "arch": "aarch64"
+  },
+  {
+    "name": "openjdk-17-x",
+    "version": "17.0.20",
+    "arch": "aarch64"
+  },
+  {
+    "name": "openjdk-21",
+    "version": "21.0.12",
+    "arch": "aarch64"
+  },
+  {
+    "name": "openjdk-21-x",
+    "version": "21.0.12",
+    "arch": "aarch64"
+  },
+  {
+    "name": "openjpeg",
+    "version": "2.5.4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "openjpeg-tools",
+    "version": "2.5.4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "openssh",
+    "version": "10.5p1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "openssh-sftp-server",
+    "version": "10.5p1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "openssl",
+    "version": "1:3.6.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "openvpn",
+    "version": "2.7.6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "p11-kit",
+    "version": "0.26.5",
+    "arch": "aarch64"
+  },
+  {
+    "name": "pango",
+    "version": "1.58.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "patch",
+    "version": "2.8-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "pcre",
+    "version": "8.45-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "pcre2",
+    "version": "10.47",
+    "arch": "aarch64"
+  },
+  {
+    "name": "perl",
+    "version": "5.42.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "php",
+    "version": "8.5.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "pipewire",
+    "version": "1.4.9-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "pkg-config",
+    "version": "0.29.2-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "procps",
+    "version": "3.3.17-6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "proot",
+    "version": "5.1.107.92",
+    "arch": "aarch64"
+  },
+  {
+    "name": "proot-distro",
+    "version": "5.8.0",
+    "arch": "all"
+  },
+  {
+    "name": "protonvpn-cli-community",
+    "version": "2.2.12",
+    "arch": "all"
+  },
+  {
+    "name": "psmisc",
+    "version": "23.7-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "pulseaudio",
+    "version": "17.0-4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "python",
+    "version": "3.14.6-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "python-ensurepip-wheels",
+    "version": "3.14.6-1",
+    "arch": "all"
+  },
+  {
+    "name": "python-lxml",
+    "version": "6.1.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "python-pip",
+    "version": "26.2.1",
+    "arch": "all"
+  },
+  {
+    "name": "python2",
+    "version": "2.7.18-15",
+    "arch": "aarch64"
+  },
+  {
+    "name": "qemu-common",
+    "version": "1:11.0.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "qemu-system-x86-64-headless",
+    "version": "1:11.0.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "qt6-qt5compat",
+    "version": "6.11.1-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "qt6-qtbase",
+    "version": "6.11.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "qt6-qtdeclarative",
+    "version": "6.11.2-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "qt6-qtlanguageserver",
+    "version": "6.11.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "qt6-shadertools",
+    "version": "6.11.1-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "railway-cli",
+    "version": "5.30.4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "readline",
+    "version": "8.3.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "resolv-conf",
+    "version": "1.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "root-repo",
+    "version": "2.4-2",
+    "arch": "all"
+  },
+  {
+    "name": "rubberband",
+    "version": "4.0.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "ruby",
+    "version": "3.4.1-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "rust",
+    "version": "1.98.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "rust-std-aarch64-linux-android",
+    "version": "1.98.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "sed",
+    "version": "4.9-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "selenium-webdriver-tool",
+    "version": "1.0.0",
+    "arch": "all"
+  },
+  {
+    "name": "serd",
+    "version": "0.32.10",
+    "arch": "aarch64"
+  },
+  {
+    "name": "shared-mime-info",
+    "version": "2.5.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "slang",
+    "version": "2.3.3-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "sord",
+    "version": "0.16.22",
+    "arch": "aarch64"
+  },
+  {
+    "name": "speexdsp",
+    "version": "1.2.1-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "sratom",
+    "version": "0.6.22",
+    "arch": "aarch64"
+  },
+  {
+    "name": "svt-av1",
+    "version": "4.2.0",
+    "arch": "aarch64"
+  },
+  {
+    "name": "tar",
+    "version": "1.35-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "termux-am",
+    "version": "0.8.0-2",
+    "arch": "all"
+  },
+  {
+    "name": "termux-am-socket",
+    "version": "1.5.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "termux-api",
+    "version": "0.59.1-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "termux-auth",
+    "version": "1.5.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "termux-core",
+    "version": "0.4.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "termux-exec",
+    "version": "1:2.5.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "termux-keyring",
+    "version": "3.13",
+    "arch": "all"
+  },
+  {
+    "name": "termux-licenses",
+    "version": "2.2",
+    "arch": "all"
+  },
+  {
+    "name": "termux-tools",
+    "version": "1.46.0+really1.45.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "tgpt",
+    "version": "2.11.1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "tidy",
+    "version": "5.9.14-next-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "toilet",
+    "version": "0.3-3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "ttf-dejavu",
+    "version": "2.37-8",
+    "arch": "all"
+  },
+  {
+    "name": "tur-repo",
+    "version": "1.0.1",
+    "arch": "all"
+  },
+  {
+    "name": "unzip",
+    "version": "6.0-10",
+    "arch": "aarch64"
+  },
+  {
+    "name": "util-linux",
+    "version": "2.42.1-4",
+    "arch": "aarch64"
+  },
+  {
+    "name": "vim",
+    "version": "9.2.0950",
+    "arch": "aarch64"
+  },
+  {
+    "name": "vpn-tool",
+    "version": "1.0.0",
+    "arch": "all"
+  },
+  {
+    "name": "vulkan-icd",
+    "version": "0.1",
+    "arch": "all"
+  },
+  {
+    "name": "vulkan-loader",
+    "version": "0.0.3",
+    "arch": "all"
+  },
+  {
+    "name": "vulkan-loader-generic",
+    "version": "1.4.360",
+    "arch": "aarch64"
+  },
+  {
+    "name": "wget",
+    "version": "1.25.0-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "which",
+    "version": "2.25",
+    "arch": "aarch64"
+  },
+  {
+    "name": "whiptail",
+    "version": "0.52.25-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "x11-repo",
+    "version": "8.4-1",
+    "arch": "all"
+  },
+  {
+    "name": "xcb-util",
+    "version": "0.4.1-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "xcb-util-cursor",
+    "version": "0.1.6",
+    "arch": "aarch64"
+  },
+  {
+    "name": "xcb-util-image",
+    "version": "0.4.1-2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "xcb-util-keysyms",
+    "version": "0.4.1-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "xcb-util-renderutil",
+    "version": "0.3.10-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "xcb-util-wm",
+    "version": "0.4.2-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "xdg-utils",
+    "version": "1.2.1-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "xkeyboard-config",
+    "version": "2.48-1",
+    "arch": "all"
+  },
+  {
+    "name": "xorg-util-macros",
+    "version": "1.20.2",
+    "arch": "all"
+  },
+  {
+    "name": "xorg-xprop",
+    "version": "1.2.8",
+    "arch": "aarch64"
+  },
+  {
+    "name": "xorgproto",
+    "version": "2025.1",
+    "arch": "all"
+  },
+  {
+    "name": "xvidcore",
+    "version": "1.3.7-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "xxd",
+    "version": "9.2.0950",
+    "arch": "aarch64"
+  },
+  {
+    "name": "xxhash",
+    "version": "0.8.3-1",
+    "arch": "aarch64"
+  },
+  {
+    "name": "xz-utils",
+    "version": "5.8.3",
+    "arch": "aarch64"
+  },
+  {
+    "name": "yarn",
+    "version": "1.22.22",
+    "arch": "all"
+  },
+  {
+    "name": "zip",
+    "version": "3.0-7",
+    "arch": "aarch64"
+  },
+  {
+    "name": "zlib",
+    "version": "1.3.2",
+    "arch": "aarch64"
+  },
+  {
+    "name": "zstd",
+    "version": "1.5.7-1",
+    "arch": "aarch64"
+  }
+]
